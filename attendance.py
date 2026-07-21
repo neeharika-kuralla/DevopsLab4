@@ -1,0 +1,1 @@
+print("Taking attendance of the class")
